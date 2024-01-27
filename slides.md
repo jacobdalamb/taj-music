@@ -8,7 +8,7 @@ info: |
 drawings:
   persist: false
 transition: slide-left
-title: Welcome to Slidev
+title: TAJ Music
 mdc: true
 fonts:
   provider: 'none'
