@@ -1,7 +1,14 @@
 {
   "name": "slidev",
+  "version": "2024.01.26",
   "type": "module",
   "private": true,
+  "author": "Jacob Lamb <jacobtlamb@hey.com> (https://www.jacobdalamb.dev/)",
+  "homepage": "https://github.com/jacobdalamb/taj-music#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobdalamb/taj-music.git"
+  },
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
