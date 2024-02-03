@@ -1,10 +1,10 @@
 ---
 theme: default
 class: text-center
-highlighter: shikiji
+highlighter: shiki
 lineNumbers: false
 info: |
-  ## Oseh Shalom
+  ## TAJ Music
 drawings:
   persist: false
 transition: slide-left
@@ -16,34 +16,9 @@ fonts:
   mono: 'Geist Mono Variable'
 ---
 
-# **Oseh Shalom**
+# **TAJ MUSIC**
 
 ---
+src: pages/holy-unto-you.md
 layout: center
 ---
-
-## **Osey shalom bim-romav, hu ya-a-seh shalom aleinu, v'al kol Yisrael, v'imru imru amen.** (x2)
-
-<br>
-
-## **Ya-a-seh shalom, ya-a-seh shalom, shalom aleinu v'al kol Yisrael.** (x6)
-
----
-layout: center
----
-
-## **Osey shalom bimromav, hu ya-a-seh shalom aleinu, v'al kol Yisrael, v'imru imru amen.**
-
-<br>
-
-## **Ya-a-seh shalom, ya-a-seh shalom, shalom aleinu v'al kol Yisrael.** (x6)
-
----
-layout: center
----
-
-## **Osey shalom bimromav, hu ya-a-seh shalom aleinu, v'al kol Yisrael, v'imru imru amen.**
-
-<br>
-
-## **Ya-a-seh shalom, ya-a-seh shalom, shalom aleinu v'al kol Yisrael.** (x8)
