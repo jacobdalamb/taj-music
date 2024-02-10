@@ -3,6 +3,7 @@ theme: default
 class: text-center
 highlighter: shiki
 lineNumbers: false
+download: true
 info: |
   ## TAJ Music
 drawings:
