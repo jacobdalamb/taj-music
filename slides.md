@@ -23,3 +23,11 @@ fonts:
 src: pages/vshamru.md
 layout: center
 ---
+---
+src: pages/oseh-shalom.md
+layout: center
+---
+---
+src: pages/holy-unto-you.md
+layout: center
+---
