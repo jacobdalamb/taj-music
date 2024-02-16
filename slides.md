@@ -31,3 +31,7 @@ layout: center
 src: pages/holy-unto-you.md
 layout: center
 ---
+---
+src: pages/revelation-song.md
+layout: center
+---
