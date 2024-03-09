@@ -20,8 +20,6 @@ fonts:
 # **TAJ MUSIC**
 
 ---
-
 src: pages/come-let-us-go-up.md
 layout: center
-
 ---

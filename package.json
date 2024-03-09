@@ -1,35 +1,34 @@
 {
-  "name": "slidev",
-  "version": "2024.03.09",
-  "type": "module",
-  "private": true,
-  "author": "Jacob Lamb <jacobtlamb@hey.com> (https://www.jacobdalamb.dev/)",
-  "homepage": "https://github.com/jacobdalamb/taj-music#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jacobdalamb/taj-music.git"
-  },
-  "scripts": {
-    "build": "slidev build",
-    "dev": "slidev --open",
-    "export": "slidev export",
-    "format": "prettier -w . && biome format --write .",
-    "lint": "biome lint .",
-    "lint:fix": "biome lint --apply .",
-    "check-format": "prettier --check . && biome check .",
-    "check-format:fix": "biome check --apply .",
-    "precommit": "nr check-format && bun ./updateVersion.ts && nr lint",
-    "predeploy": "nr build && vercel deploy"
-  },
-  "dependencies": {
-    "@humanfs/node": "^0.14.1",
-    "@slidev/cli": "^0.47.5",
-    "@slidev/theme-default": "^0.25.0",
-    "@slidev/theme-seriph": "^0.25.0"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "1.6.0",
-    "playwright-chromium": "^1.42.1",
-    "prettier": "3.2.5"
-  }
+	"name": "slidev",
+	"version": "2024.03.09",
+	"type": "module",
+	"private": true,
+	"author": "Jacob Lamb <jacobtlamb@hey.com> (https://www.jacobdalamb.dev/)",
+	"homepage": "https://github.com/jacobdalamb/taj-music#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jacobdalamb/taj-music.git"
+	},
+	"scripts": {
+		"build": "slidev build",
+		"dev": "slidev --open",
+		"export": "slidev export",
+		"format": "biome format --write .",
+		"lint": "biome lint .",
+		"lint:fix": "biome lint --apply .",
+		"check-format": "prettier --check . && biome check .",
+		"check-format:fix": "biome check --apply .",
+		"precommit": "nr check-format && bun ./updateVersion.ts && nr lint",
+		"predeploy": "nr build && vercel deploy"
+	},
+	"dependencies": {
+		"@humanfs/node": "^0.14.1",
+		"@slidev/cli": "^0.47.5",
+		"@slidev/theme-default": "^0.25.0",
+		"@slidev/theme-seriph": "^0.25.0"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.6.0",
+		"playwright-chromium": "^1.42.1"
+	}
 }
