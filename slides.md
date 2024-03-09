@@ -21,34 +21,6 @@ fonts:
 
 ---
 
-src: pages/vshamru.md
-layout: center
-
----
-
----
-
-src: pages/oseh-shalom.md
-layout: center
-
----
-
----
-
-src: pages/holy-unto-you.md
-layout: center
-
----
-
----
-
-src: pages/revelation-song.md
-layout: center
-
----
-
----
-
 src: pages/come-let-us-go-up.md
 layout: center
 
