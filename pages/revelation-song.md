@@ -1,4 +1,3 @@
-
 # **Revelation Song**
 
 ---
@@ -22,7 +21,9 @@
 <br>
 
 # **Who sits on Heaven’s mercy seat**
+
 # (verse 1) x2
+
 ---
 
 # **Holy, holy, holy is the Lord God Almighty**
@@ -98,6 +99,7 @@
 <br>
 
 # **At the mention of Your name**
+
 # (verse 2) x2
 
 <br>
@@ -133,4 +135,5 @@
 <br>
 
 # **You are my everything and I will adore You**
+
 # (x3)

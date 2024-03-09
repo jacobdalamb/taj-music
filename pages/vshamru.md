@@ -1,4 +1,3 @@
-
 # **V’shamru**
 
 ---
@@ -10,6 +9,7 @@
 <br>
 
 # **La’asot et haShabbat l’dorotam brit olam**
+
 # (chorus x2)
 
 <br>
@@ -17,6 +17,7 @@
 <br>
 
 # **Baini uvain b’nai Yisrael ote hi l’olam, ote hi l’olam.**
+
 # (verse 1)
 
 ---
@@ -28,6 +29,7 @@
 <br>
 
 # **La’asot et haShabbat l’dorotam brit olam**
+
 # (chorus x2)
 
 <br>
@@ -35,6 +37,7 @@
 <br>
 
 # **Ki shaishet yamim asa Adonai, asa Adonai et hashmayim v’et ha’aretz**
+
 # (verse 2)
 
 ---
@@ -46,6 +49,7 @@
 <br>
 
 # **La’asot et haShabbat l’dorotam brit olam**
+
 # (chorus x2)
 
 <br>
@@ -53,4 +57,5 @@
 <br>
 
 # **Uvayom hashvi’i shavat vayinafash, shavat vayinafash, shavat vayinafash.**
+
 # (verse 3)
