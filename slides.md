@@ -46,3 +46,10 @@ src: pages/revelation-song.md
 layout: center
 
 ---
+
+---
+
+src: pages/come-let-us-go-up.md
+layout: center
+
+---
