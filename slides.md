@@ -20,6 +20,6 @@ fonts:
 # **TAJ MUSIC**
 
 ---
-src: pages/come-let-us-go-up.md
+src: pages/chag-samech.md
 layout: center
 ---
