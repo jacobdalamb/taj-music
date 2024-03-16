@@ -16,13 +16,13 @@
 
 # **Adonai upon His throne who heard their cries of woe**
 
-<br/>
-<br/>
-<br/>
+---
 
 # **Spoke to Moses from the Burning Bush' "Let My people go".**
 
----
+<br/>
+<br/>
+<br/>
 
 # **Moses heeded God's instructions, followed what He said**
 
